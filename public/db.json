@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 18644119330491312,
+      "title": "Gigima Hat",
+      "description": "White Gigima",
+      "availableSizes": ["M", "X", "L", "XXL"],
+      "price": 27.6,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 11854078013954528,
+      "title": "Talio Hat",
+      "description": "Pink Talio",
+      "availableSizes": ["X", "S", "XL"],
+      "price": 16.4,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 876661122392077,
+      "title": "Lency Hat",
+      "description": "Grey Lency",
+      "availableSizes": ["XL", "S", "L"],
+      "price": 32.5,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 9197907543445677,
+      "title": "Maison Puma Hat",
+      "description": "Maison Puma",
+      "availableSizes": ["XL", "M", "X"],
+      "price": 41.4,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 10547961582846888,
+      "title": "Kendan Hat",
+      "description": "Kendan",
+      "availableSizes": ["S", "M", "XL"],
+      "price": 18.9,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 6090484789343891,
+      "title": "Bohemian Javit Hat",
+      "description": "Bohemian Javit",
+      "availableSizes": ["M", "L", "XXL"],
+      "price": 26.2,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 18532669286405342,
+      "title": "Bortino Hat",
+      "description": "Bortino",
+      "availableSizes": ["S", "M", "XL" ],
+      "style": "Trending",
+      "price": 37.4,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "sku": 5619496040738316,
+      "title": "Vimita Hat",
+      "description": "Vimita",
+      "availableSizes": ["M", "L"],
+      "style": "Vintage",
+      "price": 22.8,
+      "isFreeShipping": false
+    },
+    {
+      "id": 9,
+      "sku": 11600983276356165,
+      "title": "Moltery Hat",
+      "description": "",
+      "availableSizes": ["XS", "S", "XL"],
+      "price": 18.4,
+      "isFreeShipping": true
+    }
+  ]
+}
